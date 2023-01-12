@@ -9,7 +9,7 @@ Clone this repo, install dependencies and start the server.
 https://github.com/iggusti/twitter-clone-htmx.git
 cd htmx-twitter-clone
 npm install
-npm start
+npm run dev
 ```
 
 You can view the application in `localhost:3000`
